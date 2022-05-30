@@ -1,0 +1,1 @@
+print(int(input(),16)) # int (value, 진수)
